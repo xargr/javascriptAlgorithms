@@ -11,3 +11,6 @@ A collection of javascript interview questions
 - [String Reverse](https://github.com/xargr/javascriptAlgorithms/blob/master/stringReverse.js)
 - [Number Reverse](https://github.com/xargr/javascriptAlgorithms/blob/master/numberReverse.js)
 - [Palidrome](https://github.com/xargr/javascriptAlgorithms/blob/master/palidrome.js)
+- [Map function](https://github.com/xargr/javascriptAlgorithms/blob/master/map.js)
+
+
