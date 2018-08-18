@@ -13,6 +13,8 @@ A collection of javascript interview questions
 - [Palidrome](https://github.com/xargr/javascriptAlgorithms/blob/master/palidrome.js)
 - [Map function](https://github.com/xargr/javascriptAlgorithms/blob/master/map.js)
 - [Filter function](https://github.com/xargr/javascriptAlgorithms/blob/master/filter.js)
+- [Filter function](https://github.com/xargr/javascriptAlgorithms/blob/master/reduce.js
+)
 
 
 
