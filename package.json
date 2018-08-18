@@ -4,7 +4,8 @@
   "description": "A collection of JavaScript Interview questions",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "watch": "jest --verbose --watch"
   },
   "author": "",
   "license": "ISC",
