@@ -3,7 +3,7 @@ const doubleArrow = require("../map").doubleArrow;
 const doubleSep = require("../map").doubleSep;
 const doubleFatArrow = require("../map").doubleFatArrow;
 
-describe("loop until 10", () => {
+describe("Map function testing", () => {
   it("double", () => {
     expect(double).toEqual([2, 4, 6, 8, 10, 12, 14, 16, 18, 20]);
   });
