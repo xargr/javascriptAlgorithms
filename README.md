@@ -9,4 +9,6 @@ A collection of javascript interview questions
 
 ## Table of Contents
 
-- [String reverse](#updating-to-new-releases)
+- [String Reverse](https://github.com/xargr/javascriptAlgorithms/blob/master/stringReverse.js)
+- [Number Reverse](https://github.com/xargr/javascriptAlgorithms/blob/master/numberReverse.js)
+- [Palidrome](https://github.com/xargr/javascriptAlgorithms/blob/master/palidrome.js)
