@@ -1,9 +1,11 @@
 /* 
 Reverse string 
 
-put the string                      ->
-tranfer to array with split()       ->
-reverse array order with reverse()  ->
+example: demo return omed 
+
+put the string ->
+tranfer to array with split() ->
+reverse array order with reverse() ->
 tranfer array to string with join()
 
 

@@ -2,9 +2,9 @@
   "name": "interview",
   "version": "1.0.0",
   "description": "A collection of JavaScript Interview questions",
-  "main": "stringREverse.js",
+  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "author": "",
   "license": "ISC",
