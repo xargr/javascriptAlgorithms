@@ -1,9 +1,19 @@
-/* Reverse string */
+/* 
+Reverse string 
 
-function reserveStr(str){
+put the string                      ->
+tranfer to array with split()       ->
+reverse array order with reverse()  ->
+tranfer array to string with join()
 
-    return str.split('').reverse().join('');
 
+*/
+
+function reserveStr(str) {
+  return str
+    .split("")
+    .reverse()
+    .join("");
 }
 
 module.exports = reserveStr;
