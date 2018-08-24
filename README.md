@@ -21,7 +21,3 @@ A collection of javascript interview questions
 
 
 
-selfInvoking.js
-
-
-
